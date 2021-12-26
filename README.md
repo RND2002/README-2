@@ -1,1 +1,3 @@
 # README-2
+trying to understand GITHUB....
+#May be it will help some way
